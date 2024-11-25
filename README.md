@@ -4,7 +4,8 @@
 
 ### About me
 
-🖌 I'm a front-end developer and a huge UX and UI Design enthusiast. <br>
+I started my journey in technology in December 2021 when I first encountered HTML and CSS. Since then, I have developed several applications and became fascinated by the world of web development. Over the past two years, I have focused on enhancing my skills by learning technologies such as React.js, Node.js, TypeScript, PostgreSQL, and MongoDB.
+Today, I work as a Fullstack Developer, creating robust and scalable solutions using React.js on the frontend and Node.js, PostgreSQL, and MongoDB on the backend. My goal is to deliver high-quality applications that meet business needs while providing an excellent user experience. <br>
 💻 I currently study fullstack at @cubosacademy
 
 
