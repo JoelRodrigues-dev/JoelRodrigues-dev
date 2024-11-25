@@ -8,7 +8,7 @@ I started my journey in technology in December 2021 when I first encountered HTM
 Today, I work as a Fullstack Developer, creating robust and scalable solutions using React.js on the frontend and Node.js, PostgreSQL, and MongoDB on the backend. My goal is to deliver high-quality applications that meet business needs while providing an excellent user experience. <br><br>
 
 
-
+##
 
 ### My skills
 
