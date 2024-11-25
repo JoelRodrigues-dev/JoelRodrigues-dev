@@ -23,14 +23,6 @@ Today, I work as a Fullstack Developer, creating robust and scalable solutions u
 
 </div>
 
-##
-
-### My projects
-
-💻[Portfolio pessoal](https://github.com/JoelRodrigues-dev/site-portfolio) : this project is a portfolio website
-
-<div></div>
-
 
 ##
 
